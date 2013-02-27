@@ -366,13 +366,23 @@ a:visited {
 .mailchimp-form input{
 	border: 1px solid #EEE;
 	border-radius: 35px;
-	line-height: 35px;
+
+	height: 35px;
 	padding: 0 20px;
 	margin-right: 10px;
+}
+
+.mailchimp-form input:focus{
+	outline: none;
 }
 
 .button-submit{
 	background-color: #00FF31;
 	color: #878170;
 	border: none;
+}
+
+.button-submit:hover{
+	background-color: #00B521;
+	color: #FFF;
 }
