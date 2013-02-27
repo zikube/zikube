@@ -124,6 +124,16 @@ a:visited {
 	line-height: 0px;
 	padding-bottom:20px;
 	font-weight: 400;
+  margin: 20px 0;
+  color: #333333;
+}
+#slide2 #content .image {
+  background-color: #FFFFFF;
+}
+#slide2 #content .text {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  color: #333333;
 }
 
 
