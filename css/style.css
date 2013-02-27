@@ -32,8 +32,8 @@ a:visited {
 .menu {
 	position:fixed;
 	top:0px;
-	width:100%; 
-	height:auto; 
+	width:100%;
+	height:auto;
 	background-color:#ffffff;
 	z-index:100;
 }
@@ -68,7 +68,7 @@ a:visited {
 
 
 
-/* General Slides */ 
+/* General Slides */
 
 .slide{
 	background-attachment: fixed;
@@ -80,7 +80,7 @@ a:visited {
 
 
 
-/* Slide 1 */ 
+/* Slide 1 */
 
 #slide1{
 	background-color:#ffffff;
@@ -103,7 +103,7 @@ a:visited {
 
 
 
-/* Slide 2 */ 
+/* Slide 2 */
 
 #slide2{
 	background-image:url('../images/footprints.png');
@@ -128,7 +128,7 @@ a:visited {
 
 
 
-/* Slide 3 */ 
+/* Slide 3 */
 
 #slide3{
 	background-color:#ffffff;
@@ -319,7 +319,3 @@ a:visited {
 
 
 }
-
-
-
-
