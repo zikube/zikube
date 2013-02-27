@@ -78,6 +78,10 @@ a:visited {
 	padding:140px 0;
 }
 
+#slide1{
+	padding-top: 200px;
+}
+
 
 
 /* Slide 1 */
@@ -321,4 +325,25 @@ a:visited {
 	}
 
 
+}
+
+/* =============== */
+/* = Added style = */
+/* =============== */
+
+.social-link{
+	display: inline-block;
+	position: relative;
+	top: 8px;
+	margin-left: 20px;
+	opacity: .8;
+	-webkit-transition: opacity .2s linear;
+	-moz-transition: opacity .2s linear;
+	-o-transition: opacity .2s linear;
+	-ms-transition: opacity .2s linear;
+	transition: opacity .2s linear;
+}
+
+.social-link:hover{
+	opacity: 1;
 }
