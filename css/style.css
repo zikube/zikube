@@ -110,8 +110,9 @@ a:visited {
 /* Slide 2 */
 
 #slide2{
-	background-image:url('../images/footprints.png');
-	background-color:#f68f67;
+  background-size: 100% auto; 
+	background-image:url('../images/7753919238_11008b3d78_b.jpg');
+  background-repeat: no-repeat;
 	color:#ffffff;
 }
 #slide2 h1 {
@@ -165,8 +166,8 @@ a:visited {
 /* Slide 4 */
 
 #slide4{
-	background-image:url('../images/sunglasses.png');
-	background-color:#8a8683;
+  background-size: 100% auto; 
+	background-image:url('../images/2680023653_31a1df59ba_b.jpg');
 	color:#ffffff;
 }
 #slide4 h1 {
